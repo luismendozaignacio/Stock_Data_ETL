@@ -1,0 +1,10 @@
+#requirements.txt file to install dependencies across devices to keep consistancy 
+
+#installing BeautifulSoup v.4.12.2
+beautifulsoup4==4.12.2
+
+#installing requests to send requests to web pages
+requests
+
+#installing psycopg2 to connect and interact with PostgreSQL
+psycopg2
